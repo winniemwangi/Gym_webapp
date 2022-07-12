@@ -158,7 +158,96 @@
   flex-direction: row;
   padding: 50px 0;
 }
-.experts
+.sec1
 {
-  
+  margin-left: 3%;
+}
+.program
+{
+  margin-left: 26%;
+  margin-top: -3.4%;
+}
+.coaches
+{
+  margin-left: 4%;
+  margin-top: 2%;
+}
+.members
+{
+  margin-left: 15%;
+  margin-top: -3.5%;
+}
+.btn
+{
+  margin-top: 4%;
+  margin-left: 4%;
+  padding: 1%;
+  border-bottom-right-radius: 35%;
+  background-color: rgb(144, 85, 14);
+
+}
+.butn
+{
+  margin-left: 2%;
+  padding: 1%;
+  border-bottom-right-radius: 35%;    
+}
+.prog h1
+{
+  font-family: 'Special Elite', cursive;
+  font-size: 60px;
+  margin-left: 7%;
+  margin-top: 5%;
+}
+.training 
+{
+  background-color: aqua;
+  width: 17%;
+  margin-left: 7%;
+  margin-top: 5%;
+  padding: 2%;
+} 
+.icon1
+{
+  font-size: 170%;
+}
+.join
+{
+  margin-top: 8%;
+}
+.heading2
+{
+  font-size: 20px;
+}
+.cardio 
+{
+  background-color: aqua;
+  width: 17%;
+  margin-left: 7%;
+  margin-top: 5%;
+  padding: 2%;
+} 
+.icon2
+{
+  font-size: 170%;
+}
+.join1
+{
+  margin-top: 8%;
+}
+.burning
+{
+  background-color: aqua;
+  width: 17%;
+  margin-left: 7%;
+  margin-top: 5%;
+  padding: 2%;
+}
+.join2
+{
+  margin-top: 8%;
+}
+.icon3
+{
+  font-size: 170%;
 }
